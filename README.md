@@ -26,17 +26,3 @@ Azure Administrators Course manage the cloud services that span storage, network
 
  
  # 🧑‍💼 Manage Azure Active Directory Identities
-
----
-
-## Star, Fork & Sponsor This Project
-
-[![Star on GitHub](https://img.shields.io/github/stars/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide?style=for-the-badge&logo=github&label=Star)](https://github.com/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide)
-[![Fork on GitHub](https://img.shields.io/github/forks/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide?style=for-the-badge&logo=github&label=Fork)](https://github.com/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide/fork)
-[![Sponsor RobinaMirbahar](https://img.shields.io/badge/Sponsor-%40RobinaMirbahar-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/RobinaMirbahar)
-
-If this project is helpful to your work:
-* **Star this Repository:** [**Star `RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide` on GitHub**](https://github.com/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide) to bookmark it and help others discover it.
-* **Fork & Customize:** [**Fork `RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide`**](https://github.com/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide/fork) to build and experiment with your own workflows.
-* **Sponsor on GitHub:** [**Sponsor `@RobinaMirbahar` on GitHub Sponsors (`github.com/sponsors/RobinaMirbahar`)**](https://github.com/sponsors/RobinaMirbahar) to support future open-source [**Google (`@google`)**](https://github.com/google), [**Google Gemini (`@google-gemini`)**](https://github.com/google-gemini), [**Google DeepMind (`@google-deepmind`)**](https://github.com/google-deepmind), and [**Google Cloud (`@GoogleCloudPlatform`)**](https://github.com/GoogleCloudPlatform) cookbooks!
-
