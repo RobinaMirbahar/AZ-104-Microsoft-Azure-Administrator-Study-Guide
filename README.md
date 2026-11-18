@@ -10,7 +10,7 @@
 ![Format](https://img.shields.io/badge/Format-Hands_On_Lab_Guide-0F9D58?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Author](https://img.shields.io/badge/Author-Robina_Mirbahar-181717?style=for-the-badge&logo=github&logoColor=white)
 
-> **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) (Google Developer Expert in Cloud & AI)  
+> **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) ([Google Developer Expert in Cloud & AI](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco) · Google Cloud Champion Innovator · Co-Author of [*AI Engineering*](https://www.amazon.com/dp/B0GWCZWCF4))  
 > **Focus:** Multi-Cloud Infrastructure Reference Covering Azure Identity (Entra ID), VNet Peering, Storage, Compute & Governance
 
 ---
@@ -40,6 +40,14 @@ flowchart TD
         D5["5. Monitoring, Backup & Site Recovery"]
     end
     D1 --> D2 --> D3 --> D4 --> D5
+    style Domains fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
+    style D1 fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
+    style Governance fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
+    style D2 fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
+    style D3 fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
+    style D4 fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
+    style Networking fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
+    style D5 fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
 ```
 
 ---
@@ -66,22 +74,3 @@ Azure Administrators Course manage the cloud services that span storage, network
 
  
  # 🧑‍💼 Manage Azure Active Directory Identities
-
-<!-- AUTHOR_SIGNATURE_START -->
----
-
-## 👩‍💻 About the Author
-
-**Robina Mirbahar — Google Cloud & AI Architect**  
-*Google Developer Expert (GDE) in Cloud & AI • Published Author • Multi-Agent Systems & Serverless GPU Builder*
-
-[![GitHub](https://img.shields.io/badge/GitHub-RobinaMirbahar-181717?style=for-the-badge&logo=github)](https://github.com/RobinaMirbahar)
-[![Medium](https://img.shields.io/badge/Medium-@robinamirbahar-000000?style=for-the-badge&logo=medium)](https://medium.com/@robinamirbahar)
-[![DEV.to](https://img.shields.io/badge/DEV.to-robinamirbahar-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/robinamirbahar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robina_Mirbahar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robinamirbahar)
-[![GDE Profile](https://img.shields.io/badge/Google_Developer_Expert-Profile-4285F4?style=for-the-badge&logo=google)](https://g.dev/RobinaMirbahar?utm_campaign=deveco_gdemembers&utm_source=deveco)
-[![YouTube](https://img.shields.io/badge/YouTube-@RobinaCodesAI-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RobinaCodesAI)
-[![X](https://img.shields.io/badge/X-@RobinaMirbahar-000000?style=for-the-badge&logo=x)](https://x.com/RobinaMirbahar)
-[![Amazon Author](https://img.shields.io/badge/Amazon_Book-Cloud_Computing_Voyage-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0D146249R)
-
-<!-- AUTHOR_SIGNATURE_END -->
