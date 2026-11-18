@@ -11,7 +11,8 @@
 ![Author](https://img.shields.io/badge/Author-Robina_Mirbahar-181717?style=for-the-badge&logo=github&logoColor=white)
 
 > **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) ([Google Developer Expert in Cloud & AI](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco) · Google Cloud Champion Innovator · Co-Author of [*AI Engineering*](https://www.amazon.com/dp/B0GWCZWCF4))  
-> **Focus:** Multi-Cloud Infrastructure Reference Covering Azure Identity (Entra ID), VNet Peering, Storage, Compute & Governance
+> 📚 **Architecture Track:** Enterprise Multi-Cloud Infrastructure & Azure Administrator (AZ-104) Reference Guide  
+> **Core Stack:** Microsoft Entra ID, Azure VNet Peering, Load Balancers, Storage Accounts, Azure Policy, and RBAC Governance.
 
 ---
 
