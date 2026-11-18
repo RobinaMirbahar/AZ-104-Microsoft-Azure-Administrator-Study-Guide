@@ -40,14 +40,6 @@ flowchart TD
         D5["5. Monitoring, Backup & Site Recovery"]
     end
     D1 --> D2 --> D3 --> D4 --> D5
-    style Domains fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style D1 fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style Governance fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
-    style D2 fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
-    style D3 fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style D4 fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style Networking fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
-    style D5 fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
 ```
 
 ---
